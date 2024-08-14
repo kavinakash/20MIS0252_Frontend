@@ -1,6 +1,7 @@
 # TRADEMARKIA ASSESSMENT
 
-# search page
+# search page 
+  Using react and tailwind css
 
 demo video
 
